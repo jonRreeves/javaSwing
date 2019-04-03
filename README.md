@@ -1,6 +1,6 @@
 # javaSwing
 
-Various java.Swing elements in gui
+Various javax.Swing elements in gui
 
 Import/Export (.per) files
 
